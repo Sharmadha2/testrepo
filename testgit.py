@@ -4,3 +4,4 @@ if sample == "yes":
     print('okay')
 else:
     print('no')
+    print('sorry')
