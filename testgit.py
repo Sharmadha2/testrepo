@@ -3,7 +3,7 @@ if sample == "yes":
     print('ok')
     print('okay')
 else:
-    new=input("are you alright")
-    if new=="yes":
+    new =input("are you alright")
+    if new =="yes":
         print('healthy')
 
